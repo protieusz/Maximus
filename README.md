@@ -39,3 +39,7 @@ Full Production Pictures
 
 ![IMG_9807](https://github.com/protieusz/Maximus/assets/118025702/3023dd74-4ac8-4fa0-ba8c-c5e213535c58)
 
+
+# License
+
+Keyboards by ProtieusKeebs is licensed under ![CC BY-NC-SA 4.0]([)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1) 
