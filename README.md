@@ -1,11 +1,11 @@
 # Maximus
 Ieneko42c inspired keyboard with 38 keys and a 65mm Azoteq trackpad
 
-Closed source keyboard for now.
-
 Inspired by Ieneko42c by daraku__neko. Extra 2 mouse button keys are added as backup even though Azoteq can do gestures.
 65mm trackpad makes a big difference compared to Ieneko42c 43mm trackpad. Operation is much smoother.
 Keyboard is powered by Raspberry Pico RP2040, smd soldered to the pcb.  Diodes are also smd solder.
+
+Print the pcb at your own risk. Tested but I am not responsible if it does not work on your end. No support will be provided. I will make a build guide soon.
 
 Full Production Pictures
 
