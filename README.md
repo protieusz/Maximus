@@ -7,6 +7,8 @@ Keyboard is powered by Raspberry Pico RP2040, smd soldered to the pcb.  Diodes a
 
 Print the pcb at your own risk. Tested but I am not responsible if it does not work on your end. No support will be provided. I will make a build guide soon.
 
+QMK source for the trackpad is copied from the original designer of ieneko42c. Please refer to his QMK code for more accuracy. I just copied and pasted his code into my Maximus. https://github.com/darakuneko/keyboard/tree/main/qmk/ieneko42c
+
 Full Production Pictures
 
 ![IMG_9873](https://github.com/protieusz/Maximus/assets/118025702/150c9ecf-06bd-4e93-9a97-fa1436af7d83)
