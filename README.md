@@ -9,6 +9,13 @@ Print the pcb at your own risk. Tested but I am not responsible if it does not w
 
 QMK source for the trackpad is copied from the original designer of ieneko42c. Please refer to his QMK code for more accuracy. I just copied and pasted his code into my Maximus. https://github.com/darakuneko/keyboard/tree/main/qmk/ieneko42c
 
+# NOTE: 
+Azoteq trackpads that you buy may sometimes have QA issues i.e. the solder pads at the back will come right off during soldering and trackpad themselves might be a dud. So it is better to order 2 trackpads just to be sure from your supplier. QMK support for Azoteq is not official yet
+so the QMK code that I use is copied from the ieneko42c. Currently there is a PR for Azoteq for QMK and hopefully the code gets merged soon. Before flashing the Maximus QMK code that has the trackpad code in it, test it out by flashing the Maximussimple QMK code first after you soldered your 
+diodes and mcu unit. Don't attach your trackpad yet. This Maximussimple code test will ensure that your pcb is working. Your pcb print should have no issues unless there was a quality defect from favorite pcb printing factory. If after flashing the Maximus QMK code with the trackpad code and,
+the trackpad function or the pcb itself stop working then it is most likely the code itself or the trackpad issue. PCB in general should have no issue. Since the trackpad is not officially supported so there will be some weird fanicky issues so users will have to test it out. Like I said before, 
+there are risk involve building this Maximus but it will work eventually.
+
 Full Production Pictures
 
 ![IMG_9873](https://github.com/protieusz/Maximus/assets/118025702/150c9ecf-06bd-4e93-9a97-fa1436af7d83)
