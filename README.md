@@ -5,7 +5,7 @@ Inspired by Ieneko42c by daraku__neko. Extra 2 mouse button keys are added as ba
 65mm trackpad makes a big difference compared to Ieneko42c 43mm trackpad. Operation is much smoother.
 Keyboard is powered by Raspberry Pico RP2040, smd soldered to the pcb.  Diodes are also smd solder.
 
-Print the pcb at your own risk. Tested but I am not responsible if it does not work on your end. No support will be provided. I will make a build guide soon.
+Print the pcb at your own risk. Tested but I am not responsible if it does not work on your end. No support will be provided. The build will require high level skills of soldering so be prepare.  I will make a build guide soon.
 
 QMK source for the trackpad is copied from the original designer of ieneko42c. Please refer to his QMK code for more accuracy. I just copied and pasted his code into my Maximus. https://github.com/darakuneko/keyboard/tree/main/qmk/ieneko42c
 
