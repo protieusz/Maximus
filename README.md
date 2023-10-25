@@ -1,4 +1,4 @@
-# Maximus
+# Maximus as featured on https://kbd.news/Maximus-2124.html
 Ieneko42c inspired keyboard with 38 keys and a 65mm Azoteq trackpad
 
 Inspired by Ieneko42c by daraku__neko. Extra 2 mouse button keys are added as backup even though Azoteq can do gestures.
